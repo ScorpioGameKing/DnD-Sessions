@@ -1,0 +1,47 @@
+---
+tags:
+  - JaxWoodbridge
+---
+**Inventory**
+---
+
+- 4970 GP
+- Witchlight Carnival Ticket
+- Shadowglass Daggers
+- Magical Quarter Staff
+	- ?????
+- Quarterstaff
+- Blonde Doll
+- Arcane Focus
+- Spellbook
+- Brewers Kit:
+	- Makes:
+		- DC 5 Poison
+		- DC 10 Alcohol
+- 2x Healers Kit
+- Component Pouch
+- Rotten Ogre Tooth
+- 4x 1 caret Diamonds:
+	- 5k Gold Value
+- Minor Illusion Doll
+- Locket of Lost Paths:
+	- Once Per Day, You can reroll a failed survival 
+	- check in a forest or other natural setting. The
+	- locket always smells faintly of honey suckle.
+- 9x Healing Swabs:
+	- These Magical cotton balls can be used as an 
+	- action to clean or heal a wound restoring 1d12
+	- Hit Points.
+	- Cannot regrow limbs nor bring someone back 
+	- from the dead.
+- Map to Ritual Site
+- 15 x Potion of Healing
+- 5x Tamato
+- 1x Eggplant
+- Night Living Right Hand
+- Bladestaff:
+	- Damage 1d6 (1d8) + 1 Slashing
+	- Bladestorm:
+		- Action to cast Cloud of Daggers once per day
+		- Fill a 5ft cube, 60ft with daggers, 6d4 when entering or starting turn there
+- 
