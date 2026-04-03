@@ -87,7 +87,7 @@
 | Rubber Ducky                    | [[Rubber Ducky]]               |
 | Water Dance Blade               | [[Water Dance Blade]]          |
 | Glimmerseed Amulet              | [[Glimmerseed Amulet]]         |
-| Bag of Endless [[Sandwiches]]   | [[Bag of Endless Sandwiches]]  |
+| Bag of Endless Sandwiches       | [[Bag of Endless Sandwiches]]  |
 | Treehouse Staff                 | [[Treehouse Staff]]            |
 | Glove Puppet in Shape of Wizard | [[Wizard Shaped Glove Puppet]] |
 | Wand of Glorious Holes          | [[Wand of Glorious Holes]]     |
