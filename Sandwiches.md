@@ -9,7 +9,7 @@
 |   6    |                               |                                           |
 |   7    |                               |                                           |
 |   8    | Ham Swiss + Rye               | Gain 1 hp                                 |
-|   9    |                               |                                           |
+|   9    | Ham Swiss + Rye               | Gain 1 hp                                 |
 |   10   |                               |                                           |
 |   11   |                               |                                           |
 |   12   |                               |                                           |
@@ -36,7 +36,7 @@
 |   33   |                               |                                           |
 |   34   |                               |                                           |
 |   35   | Bacon Lettuce Tomato          | Regain 1 spell slot                       |
-|   36   |                               |                                           |
+|   36   | Bacon Lettuce Tomato          | Regain 1 spell slot                       |
 |   37   | Bacon Lettuce Tomato          | Regain 1 spell slot                       |
 |   38   |                               |                                           |
 |   39   |                               |                                           |
