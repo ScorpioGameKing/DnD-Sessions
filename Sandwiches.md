@@ -54,7 +54,7 @@
 |   51   |                               |                                           |
 |   52   |                               |                                           |
 |   53   |                               |                                           |
-|   54   |                               |                                           |
+|   54   | Bagel and Locks               | Adv on Persuasion 1hr                     |
 |   55   | Spicy Grilled Chicken         | Ice/Cold Resist 1hr                       |
 |   56   |                               |                                           |
 |   57   |                               |                                           |
