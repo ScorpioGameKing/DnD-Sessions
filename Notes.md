@@ -14,6 +14,7 @@
 	- [[Gwinnith]] - Half elf in house with chicken legs
 	- [[Neihm]]- Scared of the sun
 	- [[Tony]] - Giant
+	- [[Timothy]] - Gnome of the bridge
 - **03.05.26**
 	- Looking out into the field
 		- Look out, broken down carriage for collecting corn.
@@ -152,4 +153,17 @@
 		- Draxxus opens the door with a spear in hand
 		- Tony the giant - Shown up at the door
 		- Jax is talking to Tony about his romance smut and takes the book from him
-		- 
+		- Figured out that were we want to go is 
+	- We make it to the bridge
+		- There is a gnome (Timothy), saying we have to pay a toll
+			- Tell gnome best dad joke
+				- Draxxus, Jax
+			- Tell sad story
+				- "For Sale: Baby Shoes, Unworn"
+			- Sing lullaby
+				- Laviri sings a lullaby
+		- Schlorp tries to intimidate - Schlorp then tries to sing alongside Laviri
+		- River starts to churn
+		- #  FIGHTING A GOD OF THE RIVER
+			- Jax kills the gnome
+			- 

@@ -95,7 +95,7 @@
 |   92   | Sand sandwich                 | Water resistance for 1 hr<br>Sand in mouf |
 |   93   |                               |                                           |
 |   94   |                               |                                           |
-|   95   | Sand Sandwich                 | Water Resistance for 1hr<br>Sand in mouf  |
+|   95   | Sand Sandwich                 | Water Resistance for 1hr + Sand in mouf   |
 |   96   | Bite taken out of my sandwich | FIll any non-magical hole                 |
 |   97   | baloney + ketchup             | vicious mockery for 1hr                   |
 |   98   |                               |                                           |
