@@ -90,6 +90,7 @@
 | Thieves' Tools                  |                                            |
 | Breastplate                     | [[Breastplate]]                            |
 | Bear Trinket Necklace           | [[Bear Trinket Necklace]]                  |
+|                                 |                                            |
 
 | Features & Traits | Req                      | Reference                                         |
 | ----------------- | ------------------------ | ------------------------------------------------- |
