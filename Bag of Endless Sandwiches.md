@@ -104,3 +104,13 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   98   |                               |                                           |          |
 |   99   |                               |                                           | Instant  |
 |  100   | Gravel                        | 5 1 karot diamonds                        | Instant  |
+## Wish Sandwich
+
+| Number |                 Effect                 | Duration |
+| :----: | :------------------------------------: | :------: |
+|   1    |                                        |          |
+|   2    |                                        |          |
+|   3    |                                        |          |
+|   4    |                                        |          |
+|   5    |                                        |          |
+|   6    | Pick a Sandwich from the Regular Table | Instant  |
