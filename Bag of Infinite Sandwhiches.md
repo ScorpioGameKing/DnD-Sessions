@@ -110,11 +110,4 @@ tags:
 |  100   |   Diamonds in Mouth, Gain 5 1 caret Diamonds    | Instant  |
 ## Wish Sandwich
 
-| Number |                 Effect                 | Duration |
-|:------:|:--------------------------------------:|:--------:|
-|   1    |                                        |          |
-|   2    |                                        |          |
-|   3    |                                        |          |
-|   4    |                                        |          |
-|   5    |                                        |          |
-|   6    | Pick a Sandwich from the Regular Table | Instant  |
+
