@@ -166,4 +166,5 @@
 		- River starts to churn
 		- #  FIGHTING A GOD OF THE RIVER
 			- Jax kills the gnome
-			- 
+			- Killed the god
+	- Long Rest

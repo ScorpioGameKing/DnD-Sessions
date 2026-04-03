@@ -2,14 +2,14 @@
 | Class & Level                               | Background | Race  | Alignment   |
 | ------------------------------------------- | ---------- | ----- | ----------- |
 | [[Hexblade]] [[Warlock]] 3                  | Folk Hero  | Human | Lawful Evil |
-| [[Roguish Archetype\|Assassin]] [[Rogue]] 5 |            |       |             |
+| [[Roguish Archetype\|Assassin]] [[Rogue]] 6 |            |       |             |
 
 | **Strength**    | **Dexterity**  | **Constitution** | **Intelligence**  | **Wisdom**         | **Charisma**       |
 | --------------- | -------------- | ---------------- | ----------------- | ------------------ | ------------------ |
 | 16              | 17             | 16               | 16                | 14                 | 18                 |
 | +3              | +3             | +3               | +3                | +2                 | +4                 |
 | **Armor Class** | **Initiative** | **Speed**        | **Hit Point Max** | **Hit Point Curr** | **Hit Point Temp** |
-| 16              | d20 + dex      | 30               | 67                | 67                 | 0                  |
+| 16              | d20 + dex      | 30               | 72                | 72                 | 0                  |
 
 | Proficiency Bonus  | 3                                            |
 | ------------------ | -------------------------------------------- |
@@ -22,7 +22,7 @@
 | Animal Handling | Wis  | x    | 2+2     | 4     |
 | Arcana          | Int  | x    | 3+3     | 6     |
 | Athletics       | Str  |      | 3       | 3     |
-| Deception       | Cha  | x    | 4+2     | 6     |
+| Deception       | Cha  | xx   | (4*2)+2 | 10    |
 | History         | Int  |      | 3+3     | 3     |
 | Insight         | Wis  |      | 2+2     | 2     |
 | Intimidation    | Cha  |      | 4+2     | 6     |
@@ -31,7 +31,7 @@
 | Nature          | Int  | x    | 3+3     | 6     |
 | Perception      | Wis  | xx   | (2*2)+2 | 6     |
 | Performance     | Cha  |      | 4+2     | 6     |
-| Persuasion      | Cha  | x    | 4+2     | 6     |
+| Persuasion      | Cha  | xx   | (4*2)+2 | 10    |
 | Religion        | Int  |      | 3+3     | 6     |
 | Sleight of Hand | Dex  |      | 3+3     | 6     |
 | Stealth         | Dex  | xx   | (2*3)+3 | 9     |

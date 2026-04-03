@@ -1,2 +1,2 @@
-Red dragon boots because it's kind of a boss move to own a pair of footwear that grants [[frightening presence]] as a bonus action. These boots are fierce and fireproof.
+Red dragon boots because it's kind of a boss move to own a pair of footwear that grants [[Frightening Presence]] as a bonus action. These boots are fierce and fireproof.
 Cursed: You will have a hoarding problem, of course, but people will literally drop houses on you to steal your shoes.
