@@ -90,7 +90,7 @@
 | Thieves' Tools                  |                                            |
 | Breastplate                     | [[Breastplate]]                            |
 | Bear Trinket Necklace           | [[Bear Trinket Necklace]]                  |
-|                                 |                                            |
+| Funny Bone                      | [[Funny Bone]]                             |
 
 | Features & Traits | Req                      | Reference                                         |
 | ----------------- | ------------------------ | ------------------------------------------------- |
