@@ -64,7 +64,7 @@ tags:
 |   54   |                                                 |          |
 |   55   |                                                 |          |
 |   56   |                                                 |          |
-|   57   |                                                 |          |
+|   57   |                 Cold/Ice Resist                 |  1 Hour  |
 |   58   |                 Cold/Ice Resist                 |  1 Hour  |
 |   59   |                 Cold/Ice Resist                 |  1 Hour  |
 |   60   |                 Cold/Ice Resist                 |  1 Hour  |
@@ -101,9 +101,9 @@ tags:
 |   91   |                                                 |          |
 |   92   |           Water Resist, Sand in Mouth           |  1 Hour  |
 |   93   |           Water Resist, Sand in Mouth           |  1 Hour  |
-|   94   |                  Sand Sandwich                  |          |
+|   94   |                  Water Resist                   |  1 Hour  |
 |   95   |                  Water Resist                   |  1 Hour  |
-|   96   |                Fill ANY Hole/Gap                | 6 Hours  |
+|   96   |          Fill ANY Hole or Bridge a Gap          | 6 Hours  |
 |   97   | Cast Vicious Mockery on NEXT being you speak to |  1 Hour  |
 |   98   |                                                 |          |
 |   99   |                 Wish Sandwhich                  | Instant  |

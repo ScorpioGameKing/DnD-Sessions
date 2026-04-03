@@ -5,7 +5,7 @@ tags:
 **Inventory**
 ---
 
-- 4970 GP
+- 2845 GP
 - Witchlight Carnival Ticket
 - Shadowglass Daggers
 - Magical Quarter Staff
@@ -35,7 +35,7 @@ tags:
 	- Cannot regrow limbs nor bring someone back 
 	- from the dead.
 - Map to Ritual Site
-- 15 x Potion of Healing
+- 17 x Potion of Healing
 - 5x Tamato
 - 1x Eggplant
 - Night Living Right Hand
@@ -44,4 +44,8 @@ tags:
 	- Bladestorm:
 		- Action to cast Cloud of Daggers once per day
 		- Fill a 5ft cube, 60ft with daggers, 6d4 when entering or starting turn there
-- 
+- Bear Trinket Necklace:
+	- Peace with wild bears
+- Ooklae's Helmet:
+	- +7 AC, +2 Perception
+	- Impossible to eat or drink while eating, vanishes when removed.

@@ -9,7 +9,7 @@ tags:
 Basic Character Info
 ---
 - Class: [Graviturgy Wizard](https://dnd5e.wikidot.com/wizard:graviturgy)
-- Level: 6+2 (HP Done, +1 lv3 slot +2 level 4 slots)
+- Level: 8+1 (Do)
 - Race: [High Elf](https://dnd5e.wikidot.com/lineage:elf)
 - Background: [Feylost](https://dnd5e.wikidot.com/background:feylost)
 - Alignment: Chaotic Neutral
@@ -60,6 +60,10 @@ Stat Blocks
 |           | Sleight of Hand |   3   |
 |           |     Stealth     |   3   |
 |     X     |    Survival     |   6   |
+- Passive Peception: 16
+- Passive Investigation: 13
+- Passive Insight: 16
+- Inspiration Points: 1d6 x 1
 
 Combat Stats
 ---
@@ -67,7 +71,7 @@ Combat Stats
 - Initiative: 
 - Speed: 30
 - Max HP: 52
-- Current HP: 40
+- Current HP: 52
 - Temp HP: 0
 
 Features & Traits

@@ -3,15 +3,22 @@ tags:
   - JaxWoodbridge
   - Wizard
 ---
+Spell Checks
+---
+- Spell Save (8 + Prof + Int Bonus): 15
+- Spell Attack (Prof + Int Bonus): 7
+
 Spell Tracker
 ---
-- Total Spell Slots: 8
+- Total Spell Slots: 12
 - Scrolls: 
 	- 1x Mage Hand
+	- 3x Magic Missile
+	- 1x Gravity Sinkhole
 
 | Total | L1 A. | L1 T. | L2 A. | L2 T. | L3 A. | L3 T. | L4 A. | L4 T. |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| 12.   | 4     | 4     | 3     | 3     | 3     | 3     | 2     | 2     |
+| 9     | 4     | 4     | 2     | 3     | 2     | 3     | 0     | 2     |
 
 Spell Book
 ---
@@ -39,7 +46,7 @@ Spell Book
 | -------------------------------------------------------------------- | ------- |
 | [Immovable Object](https://dnd5e.wikidot.com/spell:immovable-object) | YES     |
 | [Hold Person](https://dnd5e.wikidot.com/spell:hold-person)           | YES     |
-| [Misty Step](https://dnd5e.wikidot.com/spell:misty-step)             | NO      |
+| [Misty Step](https://dnd5e.wikidot.com/spell:misty-step)             | YES     |
 - Level 3
 
 | Name                                                           | Readied |
@@ -47,6 +54,7 @@ Spell Book
 | [Psionic Blast](https://dnd5e.wikidot.com/spell:psionic-blast) | YES     |
 | [Fly](https://dnd5e.wikidot.com/spell:fly)                     | YES     |
 | [Fireball](https://dnd5e.wikidot.com/spell:fireball)           | NO      |
+| [Blink](https://dnd5e.wikidot.com/spell:blink)                 | YES     |
 - Level 4
 
 | Name                                                                 | Readied |
