@@ -73,8 +73,8 @@
 | Scholar's Pack               | [[Scholar's Pack]]           |
 | 8 diamonds                   | $5k worth per                |
 | Oversized plush stuffed Crow | From field scarecrow         |
-| Needle with an eye           | Eye won't let thread through |
-| Witchlight ticket            |                              |
+| Needle with an Eye           | Eye won't let thread through |
+| Witchlight Ticket            |                              |
 | Rapier                       | [[Rapier]]                   |
 | Shortsword                   | [[Shortsword]]               |
 | Thieves' Tools               |                              |
