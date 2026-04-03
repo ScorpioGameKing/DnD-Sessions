@@ -66,31 +66,34 @@
 | GP   | 500   |
 | PP   | 4     |
 
-| **Equipment**                   | Information                                |
-| ------------------------------- | ------------------------------------------ |
-| Spear                           | [[Spear]]                                  |
-| Pebble Arcane Focus             |                                            |
-| Scholar's Pack                  | [[Scholar's Pack]]                         |
-| Rubber Ducky                    | [[Rubber Ducky]]                           |
-| Water Dance Blade               | [[Water Dance Blade]]                      |
-| Glimmerseed Amulet              | [[Glimmerseed Amulet]]                     |
-| Bag of Endless [[Sandwiches]]   | [[Bag of Endless Sandwiches]]              |
-| Treehouse Staff                 | [[Treehouse Staff]]                        |
-| 8 diamonds                      | $5k worth per                              |
-| Oversized plush stuffed Crow    | From field scarecrow                       |
-| 10 Healing swabs                | [[Healing Swabs]]                          |
-| Needle with an eye              | Eye won't let thread through               |
-| Witchlight ticket               |                                            |
-| Glove Puppet in shape of wizard | Playing with its hands cast minor illusion |
-| Wand of Glorious Holes          | [[Wand of Glorious Holes]]                 |
-| Red Dragon Boots                | [[Red Dragon Boots]]                       |
-| Mind Mugger Mitts               | [[Mind Mugger Mitts]]                      |
-| Rapier                          | [[Rapier]]                                 |
-| Shortsword                      | [[Shortsword]]                             |
-| Thieves' Tools                  |                                            |
-| Breastplate                     | [[Breastplate]]                            |
-| Bear Trinket Necklace           | [[Bear Trinket Necklace]]                  |
-| Funny Bone                      | [[Funny Bone]]                             |
+| **Equipment**                | Information                  |
+| ---------------------------- | ---------------------------- |
+| Spear                        | [[Spear]]                    |
+| Pebble Arcane Focus          |                              |
+| Scholar's Pack               | [[Scholar's Pack]]           |
+| 8 diamonds                   | $5k worth per                |
+| Oversized plush stuffed Crow | From field scarecrow         |
+| Needle with an eye           | Eye won't let thread through |
+| Witchlight ticket            |                              |
+| Rapier                       | [[Rapier]]                   |
+| Shortsword                   | [[Shortsword]]               |
+| Thieves' Tools               |                              |
+| Breastplate                  | [[Breastplate]]              |
+| Bear Trinket Necklace        | [[Bear Trinket Necklace]]    |
+
+| Magic Item                      | Information                    |
+| ------------------------------- | ------------------------------ |
+| 10 Healing Swabs                | [[Healing Swabs]]              |
+| Rubber Ducky                    | [[Rubber Ducky]]               |
+| Water Dance Blade               | [[Water Dance Blade]]          |
+| Glimmerseed Amulet              | [[Glimmerseed Amulet]]         |
+| Bag of Endless [[Sandwiches]]   | [[Bag of Endless Sandwiches]]  |
+| Treehouse Staff                 | [[Treehouse Staff]]            |
+| Glove Puppet in Shape of Wizard | [[Wizard Shaped Glove Puppet]] |
+| Wand of Glorious Holes          | [[Wand of Glorious Holes]]     |
+| Red Dragon Boots                | [[Red Dragon Boots]]           |
+| Mind Mugger Mitts               | [[Mind Mugger Mitts]]          |
+| Funny Bone                      | [[Funny Bone]]                 |
 
 | Features & Traits | Req                      | Reference                                         |
 | ----------------- | ------------------------ | ------------------------------------------------- |
