@@ -1,3 +1,9 @@
+---
+tags:
+  - SessionNotes
+  - ClaireCampgain
+---
+
 - General
 	- Chasing a Tall windigo outside that has an aura of dark
 - People

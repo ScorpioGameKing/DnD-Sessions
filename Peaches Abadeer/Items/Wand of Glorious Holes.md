@@ -1,1 +1,7 @@
+---
+tags:
+  - MagicItems
+  - Items
+---
+
 This magical wand creates holes through solid objects without damaging them. These holes stay open until dispelled. Just don't stick anything in that hole and then dispel the hole. Amputation sucks. But feel free to make peepholes or widen up to reach in or make arrows slits or murder holes. If holes is what you want, this is the wand for you. The cursed variant's control over how long the hole will stay open is random as hell.

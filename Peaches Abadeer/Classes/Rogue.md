@@ -1,3 +1,9 @@
+---
+tags:
+  - Classes
+  - Peaches
+---
+
 
 | Level | Prof Bonus | Sneak Attack | Features                                           |
 | ----- | ---------- | ------------ | -------------------------------------------------- |
