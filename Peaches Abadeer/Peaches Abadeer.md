@@ -11,12 +11,20 @@ tags:
 | [[Hexblade]] [[Warlock]] 3                  | Folk Hero  | Human | Lawful Evil |
 | [[Roguish Archetype\|Assassin]] [[Rogue]] 6 |            |       |             |
 
+###### Strength
+16
+###### Dexterity
+17
+
+
+
 | **Strength**    | **Dexterity**  | **Constitution** | **Intelligence**  | **Wisdom**         | **Charisma**       |
 | --------------- | -------------- | ---------------- | ----------------- | ------------------ | ------------------ |
 | 16              | 17             | 16               | 16                | 14                 | 18                 |
 | +3              | +3             | +3               | +3                | +2                 | +4                 |
 | **Armor Class** | **Initiative** | **Speed**        | **Hit Point Max** | **Hit Point Curr** | **Hit Point Temp** |
 | 16              | d20 + dex      | 30               | 72                | 72                 | 0                  |
+
 
 | Proficiency Bonus  | 3                                            |
 | ------------------ | -------------------------------------------- |
@@ -42,7 +50,8 @@ tags:
 | Religion        | Int  |      | 3+3     | 6     |
 | Sleight of Hand | Dex  |      | 3+3     | 6     |
 | Stealth         | Dex  | xx   | (2*3)+3 | 9     |
-| Survival        | Wis  | x    | 2+2     | 4     |
+| Survival        | Wis  | x    | 2+2     | 4     | ^skills-table |
+
 
 | Name              | Information     |
 | ----------------- | --------------- |
