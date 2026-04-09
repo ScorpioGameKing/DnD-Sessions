@@ -5,8 +5,8 @@ tags:
 ---
 Spell Checks
 ---
-- Spell Save (8 + Prof + Int Bonus): 15
-- Spell Attack (Prof + Int Bonus): 7
+- Spell Save (8 + Prof + Int Bonus): 16
+- Spell Attack (Prof + Int Bonus): 8
 
 Spell Tracker
 ---
@@ -16,9 +16,9 @@ Spell Tracker
 	- 3x Magic Missile
 	- 1x Gravity Sinkhole
 
-| Total | L1 A. | L1 T. | L2 A. | L2 T. | L3 A. | L3 T. | L4 A. | L4 T. |
-| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| 9     | 4     | 4     | 2     | 3     | 2     | 3     | 0     | 2     |
+| Total | L1 A. | L1 T. | L2 A. | L2 T. | L3 A. | L3 T. | L4 A. | L4 T. | L5 A. | L5 T. |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| 14    | 4     | 4     | 3     | 3     | 3     | 3     | 3     | 3     | 1     | 1     |
 
 Spell Book
 ---
@@ -61,3 +61,9 @@ Spell Book
 | -------------------------------------------------------------------- | ------- |
 | [Gravity Sinkhole](https://dnd5e.wikidot.com/spell:gravity-sinkhole) | YES     |
 | [Dimension Door](https://dnd5e.wikidot.com/spell:dimension-door)     | YES     |
+| [Banishment](https://dnd5e.wikidot.com/spell:banishment)             | YES     |
+- Level 5
+
+| Name                                                       | Readied |
+| ---------------------------------------------------------- | ------- |
+| [Telekinesis](https://dnd5e.wikidot.com/spell:telekinesis) | YES     |
