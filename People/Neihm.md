@@ -1,3 +1,8 @@
+---
+tags:
+  - People
+---
+
 Raven Black Hair
 Human
 Taller

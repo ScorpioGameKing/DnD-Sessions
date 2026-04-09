@@ -1,3 +1,8 @@
+---
+tags:
+  - People
+---
+
 Hooded figure
 "We" have a plan
 You are trying to stop the chosen one, Fenix

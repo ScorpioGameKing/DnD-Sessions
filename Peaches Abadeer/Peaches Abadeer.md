@@ -1,3 +1,10 @@
+---
+tags:
+  - Peaches
+  - CharacterSheet
+  - ClaireCampgain
+---
+
 
 | Class & Level                               | Background | Race  | Alignment   |
 | ------------------------------------------- | ---------- | ----- | ----------- |

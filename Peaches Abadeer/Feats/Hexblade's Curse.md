@@ -1,3 +1,9 @@
+---
+tags:
+  - Warlock
+  - Peaches
+---
+
 Starting at 1st level, you gain the ability to place a baleful curse on someone. As a bonus action, choose one creature you can see within 30 feet of you. The target is cursed for 1 minute. The curse ends early if the target dies, you die, or you are incapacitated. Until the curse ends, you gain the following benefits:
 
 - You gain a bonus to damage rolls against the cursed target. The bonus equals your proficiency bonus.

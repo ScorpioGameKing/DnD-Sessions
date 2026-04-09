@@ -1,3 +1,9 @@
+---
+tags:
+  - Classes
+  - Archtypes
+  - Peaches
+---
 # Rogue: Assassin
 
 ### Bonus Proficiencies

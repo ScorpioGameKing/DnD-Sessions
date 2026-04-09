@@ -1,3 +1,9 @@
+---
+tags:
+  - Classes
+  - Peaches
+---
+
 
 | Level | Prof | Features                          | C Known | S Known | S Slots | S Level | Invo Known |
 | ----- | ---- | --------------------------------- | ------- | ------- | ------- | ------- | ---------- |

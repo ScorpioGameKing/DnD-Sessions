@@ -1,3 +1,8 @@
+---
+tags:
+  - Items
+---
+
 Proficiency with a spear allows you to add you proficiency bonus to the attack roll for any attack you make with it.
 
 *This weapon has the following mastery property. To use the property, you must have a feature that lets you use it.*

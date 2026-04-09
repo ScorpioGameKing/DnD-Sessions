@@ -1,3 +1,9 @@
+---
+tags:
+  - Items
+  - MagicItems
+---
+
 66. 
 Transforms between 
 - Water Whip

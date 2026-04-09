@@ -1,3 +1,9 @@
+---
+tags:
+  - Classes
+  - Peaches
+---
+
 ## Expanded Spell List
 
 | Spell Level | Spells                              |
