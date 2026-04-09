@@ -60,8 +60,8 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   54   | Bagel and Locks               | Adv on Persuasion 1hr                     | 1 Hour   |
 |   55   | Spicy Grilled Chicken         | Ice/Cold Resist 1hr                       | 1 Hour   |
 |   56   |                               |                                           |          |
-|   57   |                               |                                           | 1 Hour   |
-|   58   |                               |                                           | 1 Hour   |
+|   57   |                               | Cold/Ice Resist                           | 1 Hour   |
+|   58   |                               | Cold/Ice Resist                           | 1 Hour   |
 |   59   | Spicy Grilled Chicken         | Ice/Cold Resist 1hr                       | 1 Hour   |
 |   60   | Spicy Grilled Chicken         | Ice/Cold Resist 1hr                       | 1 Hour   |
 |   61   |                               |                                           |          |
@@ -96,13 +96,13 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   90   | Yes Sir                       | Gain advantage on Intimidation or Insight | 6 Hours  |
 |   91   |                               |                                           |          |
 |   92   | Sand sandwich                 | Water resistance for 1 hr<br>Sand in mouf | 1 Hour   |
-|   93   |                               |                                           | 1 Hour   |
-|   94   |                               |                                           | 1 Hour   |
+|   93   |                               | Water Resist, Sand in Mouth               | 1 Hour   |
+|   94   |                               | Water Resist                              | 1 Hour   |
 |   95   | Sand Sandwich                 | Water Resistance for 1hr + Sand in mouf   | 1 Hour   |
 |   96   | Bite taken out of my sandwich | FIll any non-magical hole                 | 6 Hours  |
 |   97   | baloney + ketchup             | vicious mockery for 1hr                   | 1 Hour   |
 |   98   |                               |                                           |          |
-|   99   |                               |                                           | Instant  |
+|   99   |                               | Wish SandwichS                            | Instant  |
 |  100   | Gravel                        | 5 1 karot diamonds                        | Instant  |
 ## Wish Sandwich
 
