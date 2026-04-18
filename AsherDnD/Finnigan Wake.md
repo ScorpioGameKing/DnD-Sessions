@@ -56,6 +56,7 @@ Equipment:
 [[Iron Flute]]
 Key (Cultist)
 [[Seeker Dart]]
+[[Purifying Amulet]]
 
 Feats:
 [[Magical Adaptation]] ([[Aasimar]])
