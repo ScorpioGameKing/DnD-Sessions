@@ -1,0 +1,1 @@
+Role Perception / Arcana to see how strong magic is in location
