@@ -1,8 +1,0 @@
----
-tags:
-  - Items
-  - MagicItems
----
-
-* Advantage to sleight of hand checks while attuned
-* (3/d) Memory Lapse - Bonus action. You can touch a target and they must succeed on a wisdom save of 10 + 1/2 your level, (Minimum 1) Or else forget everything from the round (16 seconds)
