@@ -31,7 +31,7 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   19   |                               |                                           |          |
 |   20   | Turkey + Jack on Sourdough    | Gain 1 hp                                 | Instant  |
 |   21   | Roast Beef + Cheedar          | 1 depleted spellslot                      | Instant  |
-|   22   |                               |                                           |          |
+|   22   |                               | 1 depleted spellslot                      | Instant  |
 |   23   |                               | +1 Depleted Spell Slot                    | Instant  |
 |   24   |                               |                                           |          |
 |   25   |                               |                                           |          |
@@ -48,7 +48,7 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   36   | Bacon Lettuce Tomato          | Regain 1 spell slot                       | Instant  |
 |   37   | Bacon Lettuce Tomato          | Regain 1 spell slot                       |          |
 |   38   |                               |                                           |          |
-|   39   |                               | +1 Depleted Spell Slot                    | Instant  |
+|   39   | Bacon Lettuce Tomato          | +1 Depleted Spell Slot                    | Instant  |
 |   40   | Bacon Lettuce Tomato          | Regain 1 spell slot                       | Instant  |
 |   41   | Grilled Cheeese               | Full Rest                                 | Instant  |
 |   42   |                               |                                           |          |
@@ -89,9 +89,9 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   77   | Egg Salad on Wheat            | Gain Adv on Healing check/spell           | 1 Hour   |
 |   78   | Lobster Sandwich              | Free passage on ship for 8 hrs            | 8 Hours  |
 |   79   | Pulled Pork                   | Morbidly Obese / Bad Gas / Move 1/2, 1hr  | 1 Hour   |
-|   80   |                               |                                           |          |
-|   81   | Vegetable Sandwich            | Animal friendship 8hrs                    | 8 Hours  |
-|   82   |                               | Animal friendship 8hrs                    | 8 Hours  |
+|   80   | Vegetable Sandwich            | Animal friendship                         | 8 Hours  |
+|   81   | Vegetable Sandwich            | Animal friendship                         | 8 Hours  |
+|   82   |                               | Animal friendship                         | 8 Hours  |
 |   83   |                               |                                           |          |
 |   84   |                               |                                           |          |
 |   85   |                               |                                           |          |
@@ -100,7 +100,7 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   88   |                               |                                           |          |
 |   89   |                               |                                           |          |
 |   90   | Yes Sir                       | Gain advantage on Intimidation or Insight | 6 Hours  |
-|   91   |                               |                                           |          |
+|   91   | Cat Sandwich                  | Mute                                      | 1 Hour   |
 |   92   | Sand sandwich                 | Water resistance for 1 hr<br>Sand in mouf | 1 Hour   |
 |   93   |                               | Water Resist, Sand in Mouth               | 1 Hour   |
 |   94   |                               | Water Resist                              | 1 Hour   |

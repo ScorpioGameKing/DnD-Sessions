@@ -10,6 +10,7 @@ tags:
 | [[Hexblade]] [[Warlock]] 3                  | Folk Hero  | Human | Lawful Evil |
 | [[Roguish Archetype\|Assassin]] [[Rogue]] 7 |            |       |             |
 +Bardic Insp
++Insp
 
 | **Strength**               | **Dexterity**              | **Constitution**           | **Intelligence**           | **Wisdom**                 | **Charisma**                |
 | -------------------------- | -------------------------- | -------------------------- | -------------------------- | -------------------------- | --------------------------- |
@@ -71,7 +72,7 @@ tags:
 | CP   | 0     |
 | SP   | 0     |
 | EP   | 0     |
-| GP   | 500   |
+| GP   | 515   |
 | PP   | 4     |
 
 | **Equipment**                | Information                  |
@@ -121,6 +122,7 @@ tags:
 | Assassin          | 3rd lv Rogue Archetype   | [[Roguish Archetype]]                             |
 | Assassinate       | 3rd lv Archetype Feature | [[Roguish Archetype#Assassinate\|Assassinate]]    |
 | Uncanny Dodge     | 5th lv Rogue             | [[Uncanny Dodge]]                                 |
+| Evasion           | 7th lv Rogue             | [[Evasion]]                                       |
 
 | Spell Name     | Level   | Casting Time   | Range  | Duration            | Components |
 | -------------- | ------- | -------------- | ------ | ------------------- | ---------- |
