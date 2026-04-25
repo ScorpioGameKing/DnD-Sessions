@@ -21,7 +21,7 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   9    | Ham Swiss + Rye               | Gain 1 hp                                 | Instant  |
 |   10   |                               |                                           |          |
 |   11   |                               |                                           |          |
-|   12   |                               |                                           |          |
+|   12   | Turkey Jack                   | Gain 1 hp                                 |          |
 |   13   | Ham Swiss + Rye               | Gain 1 hp                                 | Instant  |
 |   14   |                               |                                           |          |
 |   15   |                               |                                           |          |
@@ -86,7 +86,7 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   74   |                               |                                           |          |
 |   75   |                               | Adv on healing or                         | 1 Hour   |
 |   76   |                               |                                           |          |
-|   77   |                               |                                           |          |
+|   77   | Egg Salad on Wheat            | Gain Adv on Healing check/spell           | 1 Hour   |
 |   78   | Lobster Sandwich              | Free passage on ship for 8 hrs            | 8 Hours  |
 |   79   | Pulled Pork                   | Morbidly Obese / Bad Gas / Move 1/2, 1hr  | 1 Hour   |
 |   80   |                               |                                           |          |
