@@ -174,3 +174,16 @@ tags:
 			- Jax kills the gnome
 			- Killed the god
 	- Long Rest
+- 04/24/26
+	- Across the creek
+		- Walk into a rave
+		- Find a wizard that is passed out
+			- Peaches talked to the wizard about the Windigo
+			- Wizard goes outside to confront it, passes out
+		- Goes back inside and Peaches smokes a blunt and drinks
+	- Party is interrupted by thumps, and the fey run, there is a trapdoor
+		- We go through and end up in a maze
+	- Maze
+		- There are Displacer beasts in the maze, we ran away from them
+		- Level up + two magic items
+		- 
