@@ -39,26 +39,26 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   27   |                               |                                           |          |
 |   28   | Roast Beef + Cheedar          | 1 depleted spellslot                      | Instant  |
 |   29   |                               |                                           |          |
-|   30   |                               | +1 Depleted Spell Slot                    | Instant  |
+|   30   | Bacon Lettuce Tomato          | +1 Depleted Spell Slot                    | Instant  |
 |   31   |                               |                                           |          |
 |   32   |                               |                                           |          |
-|   33   |                               | +1 Depleted Spell Slot                    | Instant  |
-|   34   |                               | +1 Depleted Spell Slot                    | Instant  |
+|   33   | Bacon Lettuce Tomato          | +1 Depleted Spell Slot                    | Instant  |
+|   34   | Bacon Lettuce Tomato          | +1 Depleted Spell Slot                    | Instant  |
 |   35   | Bacon Lettuce Tomato          | Regain 1 spell slot                       | Instant  |
 |   36   | Bacon Lettuce Tomato          | Regain 1 spell slot                       | Instant  |
 |   37   | Bacon Lettuce Tomato          | Regain 1 spell slot                       |          |
 |   38   |                               |                                           |          |
-|   39   |                               | +1 Depleted Spell Slot                    | Instant  |
+|   39   | Bacon Lettuce Tomato          | +1 Depleted Spell Slot                    | Instant  |
 |   40   | Bacon Lettuce Tomato          | Regain 1 spell slot                       | Instant  |
-|   41   | Grilled Cheeese               | Full Rest                                 | Instant  |
-|   42   |                               |                                           |          |
+|   41   | Grilled Cheese                | Full Rest                                 | Instant  |
+|   42   | Grilled Cheese                | Full Rest                                 | Instant  |
 |   43   | Grilled Cheese                | Full Rest                                 | Instant  |
-|   44   |                               | Full Rest                                 | Instant  |
+|   44   | Grilled Cheese                | Full Rest                                 | Instant  |
 |   45   |                               |                                           |          |
 |   46   | Tuna Salad                    | Fully Hydrated                            | Instant  |
 |   47   | Tuna Salad                    | Fully Hydrated                            | Instant  |
 |   48   |                               |                                           |          |
-|   49   |                               | Full Hydration                            | Instant  |
+|   49   | Tuna Salad                    | Full Hydration                            | Instant  |
 |   50   |                               |                                           |          |
 |   51   |                               | Fire Resist                               | 1 Hour   |
 |   52   |                               |                                           |          |
@@ -86,7 +86,7 @@ Roll a d/100 for a sandwich. Costs and action in battle.
 |   74   |                               |                                           |          |
 |   75   |                               | Adv on healing or                         | 1 Hour   |
 |   76   |                               |                                           |          |
-|   77   |                               |                                           |          |
+|   77   |                               | Advantage Healing/Medicine 1 hour         |          |
 |   78   | Lobster Sandwich              | Free passage on ship for 8 hrs            | 8 Hours  |
 |   79   | Pulled Pork                   | Morbidly Obese / Bad Gas / Move 1/2, 1hr  | 1 Hour   |
 |   80   |                               |                                           |          |

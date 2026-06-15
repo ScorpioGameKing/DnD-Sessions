@@ -9,7 +9,7 @@ tags:
 Basic Character Info
 ---
 - Class: [Graviturgy Wizard](https://dnd5e.wikidot.com/wizard:graviturgy)
-- Level: 9
+- Level: 12;
 - Race: [High Elf](https://dnd5e.wikidot.com/lineage:elf)
 - Background: [Feylost](https://dnd5e.wikidot.com/background:feylost)
 - Alignment: Chaotic Neutral
@@ -22,7 +22,7 @@ Stat Blocks
 | :--: | :----: | :---: |
 | STR  |   10   |   0   |
 | DEX  |   16   |   3   |
-| CON  |   15   |   2   |
+| CON  |   16   |   3   |
 | INT  |   18   |   4   |
 | WIS  |   16   |   3   |
 | CHA  |   10   |   0   |
@@ -63,15 +63,15 @@ Stat Blocks
 - Passive Peception: 16
 - Passive Investigation: 13
 - Passive Insight: 16
-- Inspiration Points: 1d6 x 1
+- Inspiration Points: 1d6 x 3
 
 Combat Stats
 ---
 - AC: 12
-- Initiative: 
+- Initiative: 3
 - Speed: 30
-- Max HP: 57
-- Current HP: 57
+- Max HP: 78
+- Current HP: 78
 - Temp HP: 0
 
 Features & Traits
@@ -96,6 +96,12 @@ Features & Traits
 		- Target is willing
 		- Spell hits it with an attack
 		- It fails a saving throw against the spell
+
+- Violent Attraction
+	- At 10th level, when another creature that you can see within 60 feet of you hits with a weapon attack, you can use your reaction to increase the attack's velocity, causing the attack's target to take an extra 1d10 damage of the weapon's type.
+	- Alternatively, if a creature within 60 feet of you takes damage from a fall, you can use your reaction to increase the fall's damage by 2d10.
+	- You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+	- Max 4 / Current 2
 
 - Darkvision:
 	- 60ft Bright

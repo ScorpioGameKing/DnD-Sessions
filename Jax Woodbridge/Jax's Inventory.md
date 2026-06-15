@@ -5,7 +5,15 @@ tags:
 **Inventory**
 ---
 
-- 2845 GP
+- 3025 GP
+- 72950 GP Total
+- 50000
+- 122950
+- 25 GP Casamir's Gold Tooth
+- 50k GP Gold Crown
+- Boots of questionable stealth:
+	- Invisible but steps are amplified
+- 12 Scrolls of Revive
 - Witchlight Carnival Ticket
 - Shadowglass Daggers
 - Magical Quarter Staff
@@ -21,8 +29,9 @@ tags:
 - 2x Healers Kit
 - Component Pouch
 - Rotten Ogre Tooth
-- 4x 1 caret Diamonds:
+- 8x 1 caret Diamonds:
 	- 5k Gold Value
+	- 40000k Total
 - Minor Illusion Doll
 - Locket of Lost Paths:
 	- Once Per Day, You can reroll a failed survival 
@@ -44,8 +53,12 @@ tags:
 	- Bladestorm:
 		- Action to cast Cloud of Daggers once per day
 		- Fill a 5ft cube, 60ft with daggers, 6d4 when entering or starting turn there
-- Bear Trinket Necklace:
-	- Peace with wild bears
 - Ooklae's Helmet:
 	- +7 AC, +2 Perception
 	- Impossible to eat or drink while eating, vanishes when removed.
+- 4th Level Spell Book
+- Ring of the Rodent: 
+	- +2 to stealth checks
+	- Speak to rodents
+- Wand of bubbles:
+	- As Action 1x Day, Make air bubble around  object or person to breath 1 hour or until damaged
